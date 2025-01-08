@@ -15,12 +15,10 @@ release = '3.0.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    #'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
     'sphinx.ext.mathjax',
     'sphinx.ext.napoleon',
     'sphinx.ext.autosummary',
-    "sphinx_autodoc_typehints",
     "sphinx_rtd_theme",
 ]
 
