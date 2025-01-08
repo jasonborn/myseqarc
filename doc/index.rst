@@ -10,7 +10,7 @@ Welcome to SeqArc's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   readme
+   introduce
 
 
 
